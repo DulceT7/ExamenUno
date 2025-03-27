@@ -1,15 +1,6 @@
-.aling2{
-    width: 100%;
-    border: 1px solid black;
-    margin: 10px;
-    padding: 10px;
-    
-    display: flex;
-
-}
-.aling2 div{
-    width: 100px;
-    height: 100px;
-    border: 1px solid black;
-    margin: 10px;
+.nu1 {
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    overflow: hidden;
 }
